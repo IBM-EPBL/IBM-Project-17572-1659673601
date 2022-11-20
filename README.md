@@ -21,4 +21,14 @@ Natural disasters not only disturb the human ecological system but also destroy 
 
 <h1>Output</h1>
 
+![Screenshot (171)](https://user-images.githubusercontent.com/102343983/202886996-ca7971ce-2e76-41b8-ad21-55dbc7750ac6.png)
 
+
+<h1> <b>Contributed by <b/>:</h1>
+  <pre>         Team ID : PNT2022TMID38617
+                Team Leader : VIGNESH M -[420419104060]
+                Team member : SHYAMKUMAR S -[420419104048]
+                Team member : SRIAKASH A -[420419104051]
+                Team member : VASUDEVAN A -[420419104058]
+  </pre>
+      
